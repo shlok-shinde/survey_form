@@ -20,7 +20,6 @@ Welcome to the most unnecessarily sarcastic, delightfully dark-themed survey for
 
 ## 📁 Project Structure
 
-```text
 ```
 survey_form/
 │
