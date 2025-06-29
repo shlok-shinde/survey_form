@@ -20,11 +20,13 @@ Welcome to the most unnecessarily sarcastic, delightfully dark-themed survey for
 
 ## 📁 Project Structure
 
+```text
 survey_form/
 │
-├── index.html # The main survey form
-├── styles.css # Dark, sarcastic styling
-└── README.md # You're here
+├── index.html        # The main survey form
+├── styles.css        # Dark, sarcastic styling
+└── README.md         # You're here
+
 
 
 ## 🛠 How to Use
